@@ -178,6 +178,7 @@ public class BadriB {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
+| **💪 [B-Fitness — Gym & Nutrition Tracker](https://bfitness.netlify.app/login)** | `Angular` `Java` `Spring Boot` `Microservices` | Live, full-stack fitness journey tracker. Lets users plan diets, log daily macro intake (protein/carbs/fat), track workout streaks, and set fitness goals — built end-to-end and deployed solo. |
 | **🤖 [AI-Powered Auto-Clone / Branch Promotion Tool](https://github.com/badri436)** | `JavaScript` `ReactJS` `Node.js` `LLM API` `Git` `GitHub Actions` `Webhooks` | Sole developer. Listens for merged PR events via webhooks and auto-raises clone PRs across `dev → UAT → main`. LLM resolves cherry-pick conflicts with near-zero manual intervention. Saved the team **3–5 hours/week**. Eliminated 100% of manual cross-branch PR management. |
 
 </div>
